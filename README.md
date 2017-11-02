@@ -28,7 +28,7 @@ Execute a 11:30pm batch SAS job that imports an excel file it was modified ealie
     ```                                                                                                                                                               ```
     ```          "30Oct2017"                                                                                                                                          ```
     ```                                                                                                                                                               ```
-    ```       MAINLINE (see if modified today;                                                                                                                        ```
+    ```       MAINLINE (if modified is today ehen import sheet);                                                                                                                        ```
     ```                                                                                                                                                               ```
     ```          if today() eq "&cmodDte"d then do;                                                                                                                   ```
     ```                                                                                                                                                               ```
