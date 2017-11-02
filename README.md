@@ -13,7 +13,7 @@ Execute a 11:30pm batch SAS job that imports an excel file it was modified ealie
     ```     =======                                                                                                                                                   ```
     ```                                                                                                                                                               ```
     ```       COMPILE TIME DOSUBL                                                                                                                                     ```
-    ```       * create macro variable with lat modified date;                                                                                                         ```
+    ```       * create macro variable with last modified date;                                                                                                         ```
     ```                                                                                                                                                               ```
     ```          filename fileref "d:/xls/class.xlsx";                                                                                                                ```
     ```          data _null_;                                                                                                                                         ```
